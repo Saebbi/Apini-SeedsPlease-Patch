@@ -1,0 +1,49 @@
+<Defs>
+
+  <SeedsPlease.SeedDef ParentName="SeedBase">
+    <defName>SeedFrostbell</defName>
+    <label>frostbell seeds</label>
+    <plant>PlantFrostbell</plant>
+    <seed>
+      <baseChance>0.90</baseChance>
+      <extraChance>0.2</extraChance>
+    </seed>
+  </SeedsPlease.SeedDef>
+  
+  <SeedsPlease.SeedDef ParentName="SeedBase">
+    <defName>SeedEmberose</defName>
+    <label>emberose seeds</label>
+    <plant>PlantEmberose</plant>
+  </SeedsPlease.SeedDef>
+  
+  <SeedsPlease.SeedDef ParentName="SeedBase">
+    <defName>SeedMetalily</defName>
+    <label>metalily seeds</label>
+    <plant>PlantMetalily</plant>
+  </SeedsPlease.SeedDef>
+  
+  <SeedsPlease.SeedDef ParentName="SeedBase">
+    <defName>SeedBardsong</defName>
+    <label>bardsong seeds</label>
+    <plant>PlantBardsong</plant>
+  </SeedsPlease.SeedDef>
+  
+  <SeedsPlease.SeedDef ParentName="SeedBase">
+    <defName>SeedRushthorn</defName>
+    <label>rushthorn seeds</label>
+    <plant>PlantRushthorn</plant>
+  </SeedsPlease.SeedDef>
+  
+  <SeedsPlease.SeedDef ParentName="SeedBase">
+    <defName>SeedWiserbud</defName>
+    <label>wiserbud seeds</label>
+    <plant>PlantWiserbud</plant>
+  </SeedsPlease.SeedDef>
+  
+  <SeedsPlease.SeedDef ParentName="SeedBase">
+    <defName>SeedVigorbloom</defName>
+    <label>vigorbloom seeds</label>
+    <plant>PlantVigorbloom</plant>
+  </SeedsPlease.SeedDef>
+
+</Defs>

@@ -1,0 +1,171 @@
+<Defs>
+  
+  <RecipeDef ParentName="ExtractSeed">
+    <defName>ExtractSeedFrostbell</defName>
+    <label>extract frostbell seeds</label>
+    <description>Extract seeds from Frostbell.</description>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Honey_F</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Honey_F</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SeedFrostbell>4</SeedFrostbell>
+    </products>
+  </RecipeDef>
+  
+  <RecipeDef ParentName="ExtractSeed">
+    <defName>ExtractSeedEmberose</defName>
+    <label>extract emberose seeds</label>
+    <description>Extract seeds from Emberose.</description>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Honey_E</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Honey_E</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SeedEmberose>4</SeedEmberose>
+    </products>
+  </RecipeDef>
+  
+  <RecipeDef ParentName="ExtractSeed">
+    <defName>ExtractSeedMetalily</defName>
+    <label>extract metalily seeds</label>
+    <description>Extract seeds from Metalily.</description>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Honey_M</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Honey_M</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SeedMetalily>4</SeedMetalily>
+    </products>
+  </RecipeDef>
+  
+  <RecipeDef ParentName="ExtractSeed">
+    <defName>ExtractSeedBardsong</defName>
+    <label>extract bardsong seeds</label>
+    <description>Extract seeds from Bardsong.</description>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Honey_B</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Honey_B</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SeedBardsong>4</SeedBardsong>
+    </products>
+  </RecipeDef>
+  
+  <RecipeDef ParentName="ExtractSeed">
+    <defName>SeedRushthorn</defName>
+    <label>extract rushthorn seeds</label>
+    <description>Extract seeds from Rushthorn.</description>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Honey_R</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Honey_R</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SeedRushthorn>4</SeedRushthorn>
+    </products>
+  </RecipeDef>
+  
+  <RecipeDef ParentName="ExtractSeed">
+    <defName>ExtractSeedWiserbud</defName>
+    <label>extract wiserbud seeds</label>
+    <description>Extract seeds from Wiserbud.</description>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Honey_W</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Honey_W</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SeedWiserbud>4</SeedWiserbud>
+    </products>
+  </RecipeDef>
+  
+  <RecipeDef ParentName="ExtractSeed">
+    <defName>ExtractSeedVigorbloom</defName>
+    <label>extract vigorbloom seeds</label>
+    <description>Extract seeds from Vigorbloom.</description>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Honey_V</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Honey_V</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SeedVigorbloom>4</SeedVigorbloom>
+    </products>
+  </RecipeDef>
+  
+</Defs>
