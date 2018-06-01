@@ -1,0 +1,15 @@
+<Defs>
+
+  <SeedsPlease.SeedDef ParentName="SeedBase">
+    <defName>SeedCactus</defName>
+    <label>cactus seeds</label>
+    <plant>PlantCactus</plant>
+  </SeedsPlease.SeedDef>
+  
+  <SeedsPlease.SeedDef ParentName="SeedBase">
+    <defName>SeedGoldAgave</defName>
+    <label>gold agave seeds</label>
+    <plant>PlantGoldAgave</plant>
+  </SeedsPlease.SeedDef>
+  
+</Defs>

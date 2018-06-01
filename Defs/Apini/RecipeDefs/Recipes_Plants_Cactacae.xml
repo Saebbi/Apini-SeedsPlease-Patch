@@ -1,0 +1,27 @@
+<Defs>
+  
+  <RecipeDef ParentName="ExtractSeed">
+    <defName>ExtractSeedGoldAgave</defName>
+    <label>extract gold agave seeds</label>
+    <description>Extract seeds from Gold Agave.</description>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RawAgave</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RawAgave</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <SeedGoldAgave>4</SeedGoldAgave>
+    </products>
+  </RecipeDef>
+ 
+</Defs>

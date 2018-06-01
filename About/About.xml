@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Apini, Argonian, Cactacae Seeds Please Patch</name>
+	<name>Apini, Cactacae Seeds Please Patch</name>
 	<author>Saebbi</author>
 	<url></url>
 	<targetVersion>0.18.0</targetVersion>
-	<description>Patches the Apini, Argonian and Cactacae mod to work with SeedsPlease.</description>
+	<description>Patches the Apini and Cactacae mod to work with SeedsPlease.</description>
 </ModMetaData>
